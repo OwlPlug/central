@@ -1,0 +1,25 @@
+{
+  "name": "owlplug-central-repo",
+  "version": "1.0.0",
+  "description": "Download Git LFS from [here](https://git-lfs.github.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owlplug/central.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owlplug/central/issues"
+  },
+  "homepage": "https://github.com/owlplug/central#readme",
+  "devDependencies": {
+    "ajv-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "ajv validate -s store-schema.json -d store.json"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "name": "OwlPlug central",
+  "url": "https://central.owlplug.com",
+  "version": "1.1.0",
+  "products": [
+    {
+      "name": "Helm",
+      "creator": "Matthew Tytel",
+      "screenshotUrl": "https://central.owlplug.com/products/org.tytel.helm/helm.png",
+      "description": "A free polyphonic synth with lots of modulation",
+      "pageUrl": "https://tytel.org/helm/",
+      "donateUrl": "https://tytel.org/helm/",
+      "version": "0.0.9.0",
+      "technicalUid": "1214606445",
+      "type": "instrument",
+      "stage": "release",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Windows",
+          "targets": [
+            "win32",
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/org.tytel.helm/helm.zip",
+          "fileSize": 5700000
+        }
+      ]
+    },
+    {
+      "name": "Synister",
+      "creator": "https://the-synister.github.io/",
+      "screenshotUrl": "https://central.owlplug.com/products/synister/synister.png",
+      "description": "A substractive software synthesizer",
+      "pageUrl": "https://the-synister.github.io/",
+      "version": "0.1.0.2",
+      "technicalUid": "1298748272",
+      "type": "instrument",
+      "stage": "beta",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Windows",
+          "targets": [
+            "win32",
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/synister/synister.zip",
+          "fileSize": 3500000
+        }
+      ]
+    },
+    {
+      "name": "Dexed",
+      "creator": "Pascal Gauthier",
+      "screenshotUrl": "https://central.owlplug.com/products/dexed/dexed.png",
+      "description": "Synthesizer closely modeled on the Yamaha DX7",
+      "pageUrl": "http://asb2m10.github.io/dexed/",
+      "version": "1.0.0.0",
+      "technicalUid": "1147500644",
+      "type": "instrument",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Windows",
+          "targets": [
+            "win32",
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/dexed/dexed.zip",
+          "fileSize": 3900000
+        }
+      ]
+    },
+    {
+      "name": "Tunefish4",
+      "creator": "Tunefish Synth",
+      "screenshotUrl": "https://central.owlplug.com/products/tunefish4/tunefish4.png",
+      "description": "Tiny virtual analog synthesizer",
+      "pageUrl": "https://www.tunefish-synth.com/",
+      "version": "4.2.0.0",
+      "donateUrl": "https://www.tunefish-synth.com/",
+      "type": "instrument",
+      "tags": [
+        "Synth",
+        "Analog"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST/VST3",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-win32-vst.zip",
+          "fileSize": 3332000
+        },
+        {
+          "name": "Win64 VST/VST3",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-win64-vst.zip",
+          "fileSize": 4050000
+        },
+        {
+          "name": "Osx VST/VST3",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-osx-vst.zip",
+          "fileSize": 6293000
+        }
+      ]
+    },
+    {
+      "name": "OB-Xd",
+      "creator": "discoDSP",
+      "screenshotUrl": "https://central.owlplug.com/products/obxd/obxd.png",
+      "description": "Emulation of famous OB-X, OB-Xa and OB-8 synths\n\nOB-Xd is based on the Oberheim OB-X. It attempts to recreate its sound and behavior, but as the original was very limited in some important ways a number of things were added or altered to the original design.\nThe OB-Xd was designed to sound as good and as rich as the original. It implements micro random detuning which is a big part of that sound. However, it was not designed as a self-contained completely independent soft-synth. It needs to be contained within a VST framework where things like transposition, automation, layering, arpeggiation, etc., are available. Also, like many synths of the OB-X's generation, the OB-Xd has no internal effects so its sounds and textures can be greatly enhanced by the use of additional processing like chorus, reverb, delay, etc.",
+      "pageUrl": "https://obxd.wordpress.com/",
+      "donateUrl": "https://www.discodsp.com/obxd/",
+      "version": "0.1.4.1",
+      "technicalUid": "1331853412",
+      "type": "instrument",
+      "tags": [
+        "Synth",
+        "Analog"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-win32-vst.zip",
+          "fileSize": 1965000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-win64-vst.zip",
+          "fileSize": 2229000
+        }
+      ]
+    },
+    {
+      "name": "Mika Micro",
+      "creator": "tesselode",
+      "screenshotUrl": "https://central.owlplug.com/products/mikamicro/mikamicro.png",
+      "description": "Mika Micro is a subtractive synthesizer plugin that aims to be fun and expressive with a minimal set of controls.\n\n - 2 oscillators with 6 waveforms and split knobs\n - Simple FM functionality \n - 12dB resonant low pass filter \n - 8 voice polyphony and mono/legato modes",
+      "pageUrl": "https://tesselode.itch.io/mika-micro",
+      "donateUrl": "https://tesselode.itch.io/mika-micro",
+      "type": "instrument",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/mikamicro/bundles/mikamicro-vst-win32.zip",
+          "fileSize": 449000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "1.0.0.0",
+          "technicalUid": "1415934797",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/mikamicro/bundles/mikamicro-vst-win64.zip",
+          "fileSize": 467000
+        }
+      ]
+    },
+    {
+      "name": "Cocoa Delay",
+      "creator": "tesselode",
+      "screenshotUrl": "https://central.owlplug.com/products/cocoadelay/cocoadelay.png",
+      "description": "Cocoa Delay is a free, open-source delay plugin in VST format. It focuses on clean design, easy operation, and a warm, lively sound.\n\n - Delay time drift, for giving the wet signal a slight wow/flutter effect\n - Adjustable wet level ducking based on the input signal\n - Static, ping-pong, and circular pan modes \n - Drive section based on open-source Airwindows saturation code",
+      "pageUrl": "https://tesselode.itch.io/cocoa-delay",
+      "donateUrl": "https://tesselode.itch.io/cocoa-delay",
+      "type": "effect",
+      "tags": [
+        "Delay"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/cocoadelay/bundles/cocoadelay-vst-win32.zip",
+          "fileSize": 278000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "1.0.0.0",
+          "technicalUid": "1415934788",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/cocoadelay/bundles/cocoadelay-vst-win64.zip",
+          "fileSize": 295000
+        }
+      ]
+    },
+    {
+      "name": "Flutterbird",
+      "creator": "tesselode",
+      "screenshotUrl": "https://central.owlplug.com/products/flutterbird/flutterbird.png",
+      "description": "Flutterbird is a free, open-source effect plugin for adding pitch and volume fluctuation to incoming audio. It can be used for traditional wow/flutter effects as well as more chaotic, extreme modulation. Flutterbird has four separate oscillators with adjustable speeds that can be mapped to either pitch or volume.",
+      "pageUrl": "https://tesselode.itch.io/flutterbird",
+      "donateUrl": "https://tesselode.itch.io/flutterbird",
+      "type": "effect",
+      "tags": [
+        "Pitch"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/flutterbird/bundles/flutterbird-vst-win32.zip",
+          "fileSize": 494000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "1.0.0.0",
+          "technicalUid": "1415934790",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/flutterbird/bundles/flutterbird-vst-win64.zip",
+          "fileSize": 511000
+        }
+      ]
+    },
+    {
+      "name": "Roth-AIR",
+      "creator": "Daniel Rothmann",
+      "screenshotUrl": "https://central.owlplug.com/products/rothair/rothair.png",
+      "description": "Roth-AIR is a mixing tool for easily adding airy, crispy presence to your audio. \n\nThis is achieved by a combination of multiband compression and gentle saturation of the highs. It enables for a stronger, more consistent presence of high frequency material and works particularly well with vocals, synths and strings.\n\nThe process is made easy by a simple user interface, automatic makeup gain and a combined function 'AIR' knob. \n\nRoth-AIR is available for free in 32-bit and 64-bit as VST and AU (OS X only) plugins for Windows and Mac.",
+      "pageUrl": "http://www.danielrothmann.com/",
+      "type": "effect",
+      "tags": [
+        "Compressor",
+        "Mastering"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/rothair/bundles/rothair-vst-win32.zip",
+          "fileSize": 2704000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "0.1.0.4",
+          "technicalUid" : "1245083235",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/rothair/bundles/rothair-vst-win64.zip",
+          "fileSize": 2981000
+        },
+        {
+          "name": "MacOs VST",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/rothair/bundles/rothair-vst-osx.zip",
+          "fileSize": 2957000
+        }
+      ]
+    },
+    {
+      "name": "KickMaker",
+      "creator": "Teragon Audio",
+      "screenshotUrl": "https://central.owlplug.com/products/kickmaker/kickmaker.png",
+      "description": "KickMaker is a synthesizer designed specifically to create good kick drum sounds. It uses four independent oscillators and a wide range of effects, allowing one to create perfectly customized beats.",
+      "pageUrl": "http://teragonaudio.com/KickMaker.html",
+      "type": "instrument",
+      "tags": [
+        "Synth",
+        "Drum"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "version": "0.1.0.0",
+          "technicalUid" : "1097753715",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/kickmaker/bundles/kickmaker-vst-win32.zip",
+          "fileSize": 1724000
+        },
+        {
+          "name": "MacOs VST",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/kickmaker/bundles/kickmaker-vst-osx.zip",
+          "fileSize": 1568000
+        }
+      ]
+    },
+    {
+      "name": "Andes",
+      "creator": "Artem Popov",
+      "screenshotUrl": "https://central.owlplug.com/products/andes/andes.png",
+      "description": "Andes is a software synthesiser plugin in early stages of development. The core of Andes is an original oscillator which uses a pseudo-3D version of Perlin noise to produce distinctively digital sound.",
+      "pageUrl": "https://artfwo.github.io/andes/",
+      "type": "instrument",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/andes/bundles/andes-vst-win32.zip",
+          "fileSize": 1410000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "0.1.0.0",
+          "technicalUid" : "1097753715",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/andes/bundles/andes-vst-win64.zip",
+          "fileSize": 1724000
+        },
+        {
+          "name": "MacOs VST",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/andes/bundles/andes-vst-osx.zip",
+          "fileSize": 1568000
+        }
+      ]
+    },
+    {
+      "name": "OwlBass",
+      "creator": "PentagramPro",
+      "screenshotUrl": "https://central.owlplug.com/products/owlbass/owlbass.png",
+      "description": "OwlBass is an additive single voice bass synthesizer",
+      "pageUrl": "https://github.com/PentagramPro/OwlBass",
+      "type": "instrument",
+      "stage": "beta",
+      "tags": [
+        "Synth",
+        "Bass"
+      ],
+      "bundles": [
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "version": "1.0.0.0",
+          "technicalUid": "1148746297",
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/owlbass/bundles/owlbass-vst-win64.zip",
+          "fileSize": 1708000
+        }
+      ]
+    },
+    {
+      "name": "Wobbleizer",
+      "creator": "Dropsnorz",
+      "screenshotUrl": "https://central.owlplug.com/products/com.dropsnorz.wobbleizer/wobbleizer.png",
+      "description": "A frequency filter with LFO modulation",
+      "pageUrl": "https://github.com/dropsnorz/wobbleizer",
+      "version": "2.3.0.2",
+      "technicalUid": "2003788408",
+      "type": "effect",
+      "stage": "beta",
+      "tags": [
+        "Filter",
+        "LFO"
+      ],
+      "bundles": [
+        {
+          "name": "Wobx Win32/64",
+          "targets": [
+            "win32",
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/com.dropsnorz.wobbleizer/bundles/wobbleizer-vst-win32win64.zip",
+          "fileSize": 2857000
+        },
+        {
+          "name": "Wobx Osx",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/com.dropsnorz.wobbleizer/bundles/wobbleizer-vst-osx.zip",
+          "fileSize": 3169000
+        }
+      ]
+    }
+  ]
+}
