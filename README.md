@@ -1,7 +1,10 @@
 # central
 
+[![Build Status](https://travis-ci.org/owlplug/central.svg?branch=master)](https://travis-ci.org/owlplug/central)
 
-## Add or update plugin binaries
+This repository is an effort to bring collaborative and secure plugin distribution in OwlPlug Central. A Github based flow with forks and pull requests allows developers to control how their plugins are distributed in OwlPlug central. Rely on git LFS to store binaries is the easiest way but not the most suitable considering Github storage and bandwidth limitations.
+
+## Contribute (Add / Update plugins)
 
 ### Setup Git LFS 
 
@@ -15,10 +18,4 @@ git lfs install --skip-repo
 
 ```bash
 git clone https://github.com/owlplug/central
-```
-
-*(Optional)* If you wan to retrieve all files from LFS Server
-
-```bash
-git lfs pull --include="products/**"
 ```
