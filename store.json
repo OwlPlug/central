@@ -25,7 +25,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/org.tytel.helm/helm.zip",
+          "downloadUrl": "https://central.owlplug.com/products/org.tytel.helm/bundles/helm-vst-win.zip",
           "fileSize": 5700000
         }
       ]
@@ -51,7 +51,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/synister/synister.zip",
+          "downloadUrl": "https://central.owlplug.com/products/synister/bundles/synister-vst-win.zip",
           "fileSize": 3500000
         }
       ]
@@ -76,7 +76,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/dexed/dexed.zip",
+          "downloadUrl": "https://central.owlplug.com/products/dexed/bundles/dexed-vst-win.zip",
           "fileSize": 3900000
         }
       ]
@@ -101,7 +101,7 @@
             "win32"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-win32-vst.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-win32.zip",
           "fileSize": 3332000
         },
         {
@@ -110,7 +110,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-win64-vst.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-win64.zip",
           "fileSize": 4050000
         },
         {
@@ -119,7 +119,7 @@
             "osx"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-osx-vst.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-osx.zip",
           "fileSize": 6293000
         }
       ]
@@ -145,7 +145,7 @@
             "win32"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-win32-vst.zip",
+          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-vst-win32.zip",
           "fileSize": 1965000
         },
         {
@@ -154,7 +154,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-win64-vst.zip",
+          "downloadUrl": "https://central.owlplug.com/products/obxd/bundles/obxd-vst-win64.zip",
           "fileSize": 2229000
         }
       ]
