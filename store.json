@@ -407,6 +407,106 @@
       ]
     },
     {
+      "name": "Squeezer",
+      "creator": "Martin Zuther",
+      "screenshotUrl": "https://central.owlplug.com/products/squeezer/squeezer.png",
+      "description": "Flexible general-purpose audio compressor with a touch of citrus.\n\nSqueezer is different from all the compressors I know: its knobs are stepped to fine-tuned preset values, but can be changed to continuous values by clicking a small orange light located next to them. This allows you to find nice settings fast while not preventing optimisation of settings.",
+      "pageUrl": "https://github.com/mzuther/Squeezer",
+      "version": "2.5.4",
+      "type": "effect",
+      "tags": [
+        "Compressor"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/squeezer/bundles/squeezer-w32-vst2_2.5.4.zip",
+          "fileSize": 4000000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/squeezer/bundles/squeezer-w64-vst2_2.5.4.zip",
+          "fileSize": 4500000
+        },
+        {
+          "name": "Win32 VST3",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/squeezer/bundles/squeezer-w32-vst3_2.5.4.zip",
+          "fileSize": 2300000
+        },
+        {
+          "name": "Win64 VST3",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/squeezer/bundles/squeezer-w64-vst3_2.5.4.zip",
+          "fileSize": 2600000
+        }
+      ]
+    },
+    {
+      "name": "traKmeter",
+      "creator": "Martin Zuther",
+      "screenshotUrl": "https://central.owlplug.com/products/trakmeter/trakmeter.png",
+      "description": "Loudness meter for correctly setting up tracking and mixing levels",
+      "pageUrl": "https://github.com/mzuther/traKmeter",
+      "version": "2.4.6",
+      "type": "effect",
+      "tags": [
+        "Utils"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-w32-vst2_2.4.6.zip",
+          "fileSize": 2400000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-w64-vst2_2.4.6.zip",
+          "fileSize": 2800000
+        },
+        {
+          "name": "Win32 VST3",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-w32-vst3_2.4.6.zip",
+          "fileSize": 2400000
+        },
+        {
+          "name": "Win64 VST3",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-w64-vst3_2.4.6.zip",
+          "fileSize": 2800000
+        }
+      ]
+    },
+    {
       "name": "Wobbleizer",
       "creator": "Dropsnorz",
       "screenshotUrl": "https://central.owlplug.com/products/com.dropsnorz.wobbleizer/wobbleizer.png",
