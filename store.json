@@ -507,6 +507,73 @@
       ]
     },
     {
+      "name": "Wolf Shaper",
+      "creator": "Patrick Desaulniers",
+      "screenshotUrl": "https://central.owlplug.com/products/wolfshaper/wolfshaper.png",
+      "description": "Wolf Shaper is a waveshaper plugin with a graph editor. It can be built as an LV2, DSSI or VST plugin and as a standalone Jack application.",
+      "pageUrl": "https://pdesaulniers.github.io/wolf-shaper/",
+      "type": "effect",
+      "stage": "beta",
+      "tags": [
+        "Distortion"
+      ],
+      "bundles": [
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "version": "0.2.5.6",
+          "technicalUid": "1935111024",
+          "downloadUrl": "https://central.owlplug.com/products/wolfshaper/bundles/wolf-shaper-vst-win64.zip",
+          "fileSize": 900000
+        }
+      ]
+    },
+    {
+      "name": "Dragonfly Reverb",
+      "creator": "Michael Willis",
+      "screenshotUrl": "https://central.owlplug.com/products/dragonflyreverb/dragonflyreverb.png",
+      "description": "Dragonfly Reverb is a bundle of free audio effect plugins for Linux, MacOS, and Windows.",
+      "pageUrl": "https://michaelwillis.github.io/dragonfly-reverb/",
+      "donateUrl": "https://michaelwillis.github.io/dragonfly-reverb/donations.html",
+      "version": "3.0.0",
+      "type": "effect",
+      "tags": [
+        "Reverb"
+      ],
+      "bundles": [
+        {
+          "name": "Win32 VST",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/dragonflyreverb/bundles/dragonflyreverb-vst-win32.zip",
+          "fileSize": 4795000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/dragonflyreverb/bundles/dragonflyreverb-vst-win64.zip",
+          "fileSize": 4832000
+        },
+        {
+          "name": "OSX VST",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/dragonflyreverb/bundles/dragonflyreverb-vst-osx.zip",
+          "fileSize": 3080000
+        }
+      ]
+    },
+    {
       "name": "Wobbleizer",
       "creator": "Dropsnorz",
       "screenshotUrl": "https://central.owlplug.com/products/com.dropsnorz.wobbleizer/wobbleizer.png",
