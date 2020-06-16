@@ -101,7 +101,7 @@
             "win32"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-win32.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-win32.zip",
           "fileSize": 3332000
         },
         {
@@ -110,7 +110,7 @@
             "win64"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-win64.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-win64.zip",
           "fileSize": 4050000
         },
         {
@@ -119,7 +119,7 @@
             "osx"
           ],
           "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish-v4.2.0-vst-osx.zip",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-osx.zip",
           "fileSize": 6293000
         }
       ]
