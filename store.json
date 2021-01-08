@@ -96,7 +96,34 @@
       ],
       "bundles": [
         {
-          "name": "Win32 VST/VST3",
+          "name": "Win64 VST3",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst3-win64.zip",
+          "fileSize": 2040000
+        },
+        {
+          "name": "Win64 VST",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-win64.zip",
+          "fileSize": 1980000
+        },
+        {
+          "name": "Win32 VST3",
+          "targets": [
+            "win32"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst3-win32.zip",
+          "fileSize": 1683000
+        },
+        {
+          "name": "Win32 VST",
           "targets": [
             "win32"
           ],
@@ -105,22 +132,22 @@
           "fileSize": 3332000
         },
         {
-          "name": "Win64 VST/VST3",
+          "name": "OSX VST3",
           "targets": [
-            "win64"
+            "osx"
           ],
-          "format": "vst",
-          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-win64.zip",
-          "fileSize": 4050000
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst3-osx.zip",
+          "fileSize": 2185000
         },
         {
-          "name": "Osx VST/VST3",
+          "name": "OSX VST",
           "targets": [
             "osx"
           ],
           "format": "vst",
           "downloadUrl": "https://central.owlplug.com/products/tunefish4/bundles/tunefish4-vst-osx.zip",
-          "fileSize": 6293000
+          "fileSize": 2097000
         }
       ]
     },
