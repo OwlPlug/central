@@ -1,7 +1,7 @@
 {
   "name": "OwlPlug central",
   "url": "https://central.owlplug.com",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "products": [
     {
       "name": "Helm",
@@ -613,7 +613,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -645,7 +645,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -677,7 +677,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -709,7 +709,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -741,7 +741,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -773,7 +773,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -805,7 +805,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -837,7 +837,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -869,7 +869,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -901,7 +901,7 @@
       ],
       "bundles": [
         {
-          "name": "Win32/34 VST",
+          "name": "Win32/64 VST",
           "targets": [
             "win"
           ],
@@ -917,6 +917,47 @@
           "format": "vst",
           "downloadUrl": "https://central.owlplug.com/products/socalabs/Voc/bundles/voc-vst-osx.zip",
           "fileSize": 2085000
+        }
+      ]
+    },
+    {
+      "name": "Key Repeat",
+      "creator": "Michael Jan",
+      "screenshotUrl": "https://central.owlplug.com/products/keyrepeat/keyrepeat.png",
+      "description": "Key Repeat is a free beat repeat sampler.\n\nUse it to record note repeats and stutters in a DAW.",
+      "pageUrl": "https://michael-jan.github.io/key-repeat/",
+      "version": "1.0.0",
+      "type": "instrument",
+      "tags": [
+        "Synth"
+      ],
+      "bundles": [
+        {
+          "name": "Win64 VST3",
+          "targets": [
+            "win64"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/keyrepeat/bundles/keyrepeat-vst3-win64.zip",
+          "fileSize": 1880000
+        },
+        {
+          "name": "OSX VST3",
+          "targets": [
+            "osx"
+          ],
+          "format": "vst3",
+          "downloadUrl": "https://central.owlplug.com/products/keyrepeat/bundles/keyrepeat-vst3-osx.zip",
+          "fileSize": 1366000
+        },
+        {
+          "name": "OSX AU",
+          "targets": [
+            "osx"
+          ],
+          "format": "au",
+          "downloadUrl": "https://central.owlplug.com/products/keyrepeat/bundles/keyrepeat-au-osx.zip",
+          "fileSize": 1340000
         }
       ]
     },
