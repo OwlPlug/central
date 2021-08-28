@@ -976,7 +976,7 @@
       "name": "Key Repeat",
       "slug": "key-repeat",
       "creator": "Michael Jan",
-      "license": "unknown",
+      "license": "gpl-3.0",
       "screenshotUrl": "https://central.owlplug.com/products/keyrepeat/keyrepeat.png",
       "description": "Key Repeat is a free beat repeat sampler.\n\nUse it to record note repeats and stutters in a DAW.",
       "pageUrl": "https://michael-jan.github.io/key-repeat/",
