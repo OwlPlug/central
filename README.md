@@ -1,3 +1,5 @@
+Deprecated: Plugins are now tracked in the [OwlPlug registry](https://github.com/OwlPlug/owlplug-registry)
+
 # central
 
 [![Build Status](https://travis-ci.org/owlplug/central.svg?branch=master)](https://travis-ci.org/owlplug/central)

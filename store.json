@@ -620,7 +620,7 @@
           ],
           "format": "vst",
           "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-vst-linux64.zip",
-          "fileSize": 2800000
+          "fileSize": 5549000
         },        
         {
           "name": "Linux32 VST",
@@ -629,7 +629,25 @@
           ],
           "format": "vst",
           "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-vst-linux32.zip",
-          "fileSize": 2800000
+          "fileSize": 5445000
+        },
+        {
+          "name": "Linux64 LV2",
+          "targets": [
+            "linux64"
+          ],
+          "format": "lv2",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-lv2-linux64.zip",
+          "fileSize": 5549000
+        },        
+        {
+          "name": "Linux32 LV2",
+          "targets": [
+            "linux32"
+          ],
+          "format": "lv2",
+          "downloadUrl": "https://central.owlplug.com/products/trakmeter/bundles/trakmeter-lv2-linux32.zip",
+          "fileSize": 5444000
         }
       ]
     },
@@ -666,6 +684,16 @@
           "format": "vst",
           "version": "0.2.5.6",
           "downloadUrl": "https://central.owlplug.com/products/wolfshaper/bundles/wolf-shaper-vst-linux64.zip",
+          "fileSize": 500000
+        },
+        {
+          "name": "Linux64 LV2",
+          "targets": [
+            "linux64"
+          ],
+          "format": "lv2",
+          "version": "0.2.5.6",
+          "downloadUrl": "https://central.owlplug.com/products/wolfshaper/bundles/wolf-shaper-lv2-linux64.zip",
           "fileSize": 500000
         }
       ]
@@ -720,6 +748,15 @@
           "format": "vst",
           "downloadUrl": "https://central.owlplug.com/products/dragonflyreverb/bundles/dragonflyreverb-vst-linux64.zip",
           "fileSize": 2204000
+        },
+        {
+          "name": "Linux 64 LV2",
+          "targets": [
+            "linux64"
+          ],
+          "format": "lv2",
+          "downloadUrl": "https://central.owlplug.com/products/dragonflyreverb/bundles/dragonflyreverb-lv2-linux64.zip",
+          "fileSize": 2349000
         }
       ]
     },
